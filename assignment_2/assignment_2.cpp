@@ -10,4 +10,5 @@ int main()
 	{
 		cout << n << " x " << i << " = " << i * n << '\n';
 	}
+	return 0;
 }
